@@ -1,3 +1,3 @@
 Hackintosh Vaio FE15 - EFI Folder
 
-This is a test EFI folder for VAIO FE15. Various features not working, like sound, brightness, battery status, etc.
+This is a test EFI folder for VAIO FE15. Several features do not work, such as sound, brightness, battery status, etc.
